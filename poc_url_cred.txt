@@ -1,0 +1,78 @@
+1. JOB portal -> Site URL - https://jobportal.addwebprojects.com
+
+		  Admin URL - https://jobportal.addwebprojects.com/admin/login
+		  	      Email - nisha@mailinator.com
+		  	      Pass. - 123456
+		  	      
+		  Recruiter URL - https://jobportal.addwebprojects.com/company/recruiter
+ 			           Email - organization01@mailinator.com
+ 			           Pass. - Nisha@123
+ 			           
+ 			           
+2. Taxi Booking(Site) -> Rider URL - https://vuetaxiapp.addwebprojects.com/rider/signin
+				       Email - Nekikix@Mailinator.Com
+ 			               Pass. - Pa$$w0rd!
+ 			               
+			  Driver URL - https://vuetaxiapp.addwebprojects.com/driver/signin
+ 			               Email - Waxij@Mailinator.Com
+ 			               Pass. - Pa$$w0rd!
+ 			              
+			  Admin URL - https://vuetaxiapp.addwebprojects.com/dashboard/login
+			  	      Email - addweb@addweb.com
+			  	      Pass. - Addweb@123
+			  	      
+			 
+3.Real Estate -> Site URL - https://realestate.addwebprojects.com/
+
+		  Admin URL - https://realestate.addwebprojects.com/admin-login
+		  Admin Credentials - Email - admin@addweb.com
+				       Pass. - addweb@123
+
+		  Agent URL - https://realestate.addwebprojects.com/agent-login
+		  Agent Credentials - Email - agent@addweb.com
+				       Pass. - addweb@123
+
+		  User URL - https://realestate.addwebprojects.com
+		  User Credentials - Email - user@addweb.com
+			              Pass. - addweb@123
+			             
+			             
+4. Event Management -> Site URL - https://eventmanagement.addwebprojects.com/
+
+			Admin URL - https://eventmanagement.addwebprojects.com/super-admin/login
+			Email - admin@addweb.com
+			Password -  addweb@123
+
+			Event Orgnizer URL - https://eventmanagement.addwebprojects.com/event-orgnizer/login
+			Email - eventorgnizer@addweb.com
+			Password -  addweb@123
+
+			User URL - https://eventmanagement.addwebprojects.com/login
+			Email - eventuser@addweb.com
+			Password -  addweb@123	
+			
+		
+5. Travel ->   Site URL - https://travelsolution.addwebprojects.com/
+
+		Admin URL - https://travelsolution.addwebprojects.com/login
+		Email - krishna@addwebsolution.in
+		Password -  12345678
+
+		User URL - https://travelsolution.addwebprojects.com/
+		Email -  user@gmail.com
+		Password -  12345678	 
+		
+6. Book an appintment -> Site URL - https://bookanfrontend.addwebprojects.com/
+
+			  Admin URL - https://bookanbe.addwebprojects.com/accounts/login/
+			  		Email - indranil@addwebsolution.in
+			  		Pass. - Admin@2023
+			  
+			  
+7. ON demand services-> Site URL - http://reactbookan.addwebprojects.com:6011/
+
+			Admin URL - http://reactbookan.addwebprojects.com:6011/admin/
+				    Email -  neel@123.com
+				    Password -  admin
+				    
+8. Solution cafe -> NOT AVAILABLE	

@@ -1,0 +1,120 @@
+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
+
+export NODE_OPTIONS=--openssl-legacy-provider   --->digital envolop error
+
+docker commands->
+sudo curl -fsSL "https://download.docker.com/linux/ubuntu/gpg" | sudo gpg --dearmor --yes -o /usr/share/keyrings/docker-archive-keyring.gpg
+
+sudo chmod a+r /usr/share/keyrings/docker-archive-keyring.gpg
+
+
+conda deactivate   --->to deactive conda base
+
+conda activate   -->to activate the base again to start anaconda navigator
+
+anaconda-navigator   --->to start anaconda
+
+jupyter notebook   --->to start jupyter
+
+ 
+ to give permission of git repo:
+
+first go in the repository for which you want to give permission
+--> go in settings
+--> collobrater
+--> enter git id
+
+mail will deliver to the person whose git id you have entered.
+accept the invit
+--> make the folder
+--> git init
+--> git clone "link"
+--> cd (go inside the folder which is cloned)
+--> make new branch by git branch branch_name
+--> git checkout branch_name
+--> git add .
+--> git commit -m "initial commit"
+--> git push branch_name
+
+for pull
+git pull http link
+
+
+git config --list
+
+git config --global user.name guptanikhil11
+git config --global user.email nikhil.addweb@gmail.com
+git config --edit --global
+
+git branch -a
+git branch -r
+
+watchers error
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+cat /proc/sys/fs/inotify/max_user_watches
+fs.inotify.max_user_watches=524288
+
+
+
+MAGENTO_GRAPHQL=http://meccamagento.addwebprojects.com/graphql
+STORE_ENV=dev
+STORE_URL=http://localhost:3000
+NUXT_APP_ENV=development
+NUXT_APP_PORT=3000
+MAGENTO_EXTERNAL_CHECKOUT=false
+MAGENTO_EXTERNAL_CHECKOUT_SYNC_PATH=/vue/cart/sync
+
+
+$ npm install git-repo-name --save  git repo add command
+
+
+for nvm version change->
+
+nvm ls-remote
+nvm install --lts
+nvm install 8.16.2
+nvm use 10.16.3
+nvm alias default 10.0.0
+
+for nvm install->
+touch ~/.bashrc && curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+
+
+"(!len ||loading)|| productLoading"
+
+addwebsolution@gmail.com   ----udemy credentials for dsa
+addweb123
+
+abhishek@addwebsolution.com  ----vuemastery credentails
+Addweb@123
+
+saurabh@addwebsolution.com  ---udemy credentials for node
+#@*)dTAswCv:d3R
+
+saurabh@addwebsolution.com
+#@*)dTAswCv:d3R
+
+nikhil@addwebsolution.in | Nikhil@314   -->officmail mail id
+
+addwebsolution@gmail.com
+addweb123                   project
+
+nikhil.addweb@gmail.com
+ADDweb^1271
+
+addwebsolution@gmail.com    ---->code course
+addweb123
+
+
+php artisan migrate --path=/database/migrations/2023_01_03_113257_create_flags_table.php
+
+php artisan db:seed --class=CreateUsersSeeder
+
+
+https://staging.addwebsolution.com/adminer-4.8.1.php?pgsql=110.227.255.212%3A5432&username=postgres&db=real_estate&ns=public
+System	- PostgreSQL
+Server	- 110.227.255.212:5432
+Username	- postgres
+Password	- password
+Database	- real_estate
+
